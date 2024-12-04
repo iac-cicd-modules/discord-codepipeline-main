@@ -18,7 +18,7 @@ Follow this tutorial to get Discord Webhook url: [link](https://support.discord.
 
 Clone this repo
 ```
-git clone https://github.com/chnacib/discord-codepipeline.git
+git clone 
 cd discord-codepipeline/module
 ```
 
